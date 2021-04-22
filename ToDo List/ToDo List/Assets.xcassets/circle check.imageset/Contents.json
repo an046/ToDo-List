@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "347-3479160_detail-check-comments-check-mark-in-circle-icon.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
